@@ -1,0 +1,3 @@
+sap.ui.define(["sap/ui/core/UIComponent","./model/models"],function(e,t){"use strict";const n=t["createDeviceModel"];const i=e.extend("com.zmm.grscan.zmmgrscan.Component",{metadata:{manifest:"json",interfaces:["sap.ui.core.IAsyncContentCreation"]},init:f+
+unction t(){e.prototype.init.call(this);this.setModel(n(),"device");this.getRouter().initialize()}});return i});                                                                                                                                               
+//# sourceMappingURL=Component.js.map                                                                                                                                                                                                                          

@@ -1,0 +1,3 @@
+sap.ui.define([],function(){"use strict";var n="/sap/bc/ui5_ui5/sap/zcm05ovp/index.html";return{onOpenCM05:function(){var a=new URLSearchParams(window.location.search).get("sap-client")||"100";var e=n+"?sap-client="+a+"&sap-ui-language=KO";window.open(e,+
+"_blank")}}});                                                                                                                                                                                                                                                 
+//# sourceMappingURL=ListActions.js.map                                                                                                                                                                                                                        

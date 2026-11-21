@@ -1,0 +1,15 @@
+PROCESS BEFORE OUTPUT.
+
+  MODULE status_0200.
+  MODULE set_alv_0200.
+
+
+PROCESS AFTER INPUT.
+
+  MODULE exit_0200 AT EXIT-COMMAND.
+  MODULE user_command_0200.
+
+
+PROCESS ON VALUE-REQUEST.
+
+  FIELD gv_so_kunnr MODULE f4_so_kunnr.

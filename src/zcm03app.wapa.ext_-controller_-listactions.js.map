@@ -1,0 +1,2 @@
+{"version":3,"file":"ListActions.js","names":["sap","ui","define","CM05_PATH","onOpenCM05","sClient","URLSearchParams","window","location","search","get","sUrl","open"],"sources":["ListActions-dbg.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,GAAI,WACd,aAGA,IA+
+AIC,EAAY,0CAEhB,MAAO,CACHC,WAAY,WACR,IAAIC,EAAU,IAAIC,gBAAgBC,OAAOC,SAASC,QAAQC,IAAI,eAAiB,MAC/E,IAAIC,EAAOR,EAAY,eAAiBE,EAAU,sBAClDE,OAAOK,KAAKD,EAAM,SACtB,EAER","ignoreList":[]}                                                                            

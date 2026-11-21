@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/core/routing/HashChanger"],function(n,t){"use strict";return n.extend("cm05ovp.Component",{metadata:{manifest:"json"},init:function(){n.prototype.init.apply(this,arguments);t.getInstance().init()}})});     
+//# sourceMappingURL=Component.js.map                                                                                                                                                                                                                          

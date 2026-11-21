@@ -1,0 +1,2 @@
+{"version":3,"file":"Component.js","names":["sap","ui","define","UIComponent","HashChanger","extend","metadata","manifest","init","prototype","apply","this","arguments","getInstance"],"sources":["Component-dbg.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CACV+
+,0BACA,mCACD,SAAUC,EAAaC,GACtB,aAEA,OAAOD,EAAYE,OAAO,oBAAqB,CAC3CC,SAAU,CACNC,SAAU,QAGdC,KAAM,WACFL,EAAYM,UAAUD,KAAKE,MAAMC,KAAMC,WAGvCR,EAAYS,cAAcL,MAC9B,GAER","ignoreList":[]}                                                                              

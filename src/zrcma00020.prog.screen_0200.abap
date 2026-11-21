@@ -1,0 +1,7 @@
+PROCESS BEFORE OUTPUT.
+  MODULE status_0200.
+  MODULE init_kpi_0200.
+  MODULE init_alv_0200.
+PROCESS AFTER INPUT.
+  MODULE exit_command_0200 AT EXIT-COMMAND.
+  MODULE user_command_0200.

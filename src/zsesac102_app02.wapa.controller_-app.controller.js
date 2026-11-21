@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/mvc/Controller"],function(n){"use strict";const c=n.extend("com.zmm.grscan.zmmgrscan.controller.App",{onInit:function n(){}});return c});                                                                                          
+//# sourceMappingURL=App.controller.js.map                                                                                                                                                                                                                     
